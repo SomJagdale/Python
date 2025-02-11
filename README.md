@@ -25,3 +25,4 @@
   2. Using libraries like Numpy and pandas
   3. Application programming interfaces (APIs)
 
+![image](https://github.com/user-attachments/assets/b562f264-60a3-4e5c-886b-1472a6962f2b)
